@@ -7,7 +7,6 @@
 | [03](#03--resources-in-study-order) | Resources in study order |
 | [04](#04--exact-study-and-proof-sequence) | Exact study and proof sequence |
 | [05](#05--readiness-checklist-for-jin-et-al-2017) | Readiness test for Jin et al. (2017) |
-| [06](#06--connection-to-caho-and-hierarchical-optimization) | Connection to CAHO and hierarchical optimization |
 
 # 01 · Topics to know
 
