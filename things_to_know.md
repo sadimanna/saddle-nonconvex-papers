@@ -204,21 +204,6 @@ Before reading the main theorem and supplementary proofs, make sure you can answ
 
 ---
 
-# 06 · Connection to CAHO and hierarchical optimization
-
-After mastering the conventional saddle-point literature, extend the study to topics that connect more directly to hierarchical layer-wise optimization and generative gradient inversion.
-
-| Topic | What to study | Why it matters for CAHO |
-|---|---|---|
-| **Block-coordinate optimization** | Block updates, cyclic and randomized coordinate descent, block-wise convergence | Understand optimizing selected generator layers instead of all parameters simultaneously |
-| **Block Hessian and Schur complement** | Block matrix decomposition, Schur complement, coupled curvature | Understand cross-layer curvature interactions |
-| **Anisotropic optimization** | Coordinate-dependent and block-dependent learning rates | Analyze different learning rates across parameter blocks |
-| **Hessian eigenvalue spectrum** | Spectral distribution, positive/negative curvature, near-zero eigenvalues | Understand curvature heterogeneity across layers |
-| **Optimization trajectory analysis** | Iterative dynamics, parameter trajectories, finite-budget behaviour | Study how parameter updates evolve over time |
-| **Local stability analysis** | Linearization, Jacobian eigenvalues, stability of fixed points | Understand when an optimization trajectory is stable |
-| **Non-identifiability** | Inverse problems, equivalence classes, non-unique solutions | Understand why low gradient-matching error does not guarantee accurate reconstruction |
-| **Kurdyka–Łojasiewicz (KL) inequality** | KL property, sufficient decrease, relative error conditions | Establish convergence of optimization trajectories under suitable assumptions |
-
 ### Additional resources
 
 | Order | Resource | Topic |
