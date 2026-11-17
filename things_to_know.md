@@ -224,6 +224,6 @@ Before reading the main theorem and supplementary proofs, make sure you can answ
 | **High** | Ge et al. (2015), Lee et al. (2016), Jin et al. (2017), Du et al. (2017) | Understand strict-saddle theory and efficient escape |
 | **High** | Jin et al. supplementary proofs | Reproduce the central PGD convergence argument |
 | **Next** | Daneshmand et al. (2018), NEON2 (2018) | Understand stochastic and first-order alternatives |
-| **Research-specific** | Block Hessians, Schur complements, anisotropic updates, KL inequality | Connect the literature to CAHO |
+| **Research-specific** | Block Hessians, Schur complements, anisotropic updates, KL inequality | For future research |
 
 **Study advice:** Do not rush through the papers. Derive the descent lemma, the first-order convergence bound, the strict-saddle dynamics, and the perturbation-based escape argument yourself. Once you can reproduce these derivations, you will be in a much stronger position to understand and critically evaluate the theoretical contributions of the saddle-point literature.
